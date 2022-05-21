@@ -1,2 +1,2 @@
-<font color: green># Desi-Instagram</font>
+# Desi-Instagram
 This is a toy or dummy social media website.
